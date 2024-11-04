@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on Localisation using Monocular camera, I'm working as an intern at Trizlabs.<br>I'm currently Learning GAN, LSTM etc<br>
+I Prompt<br>
 
 
 ## 🌐 Socials:
